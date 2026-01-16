@@ -1,0 +1,8 @@
+{
+  "name": "7testCopy of Smart Junior High Exam Pro (智考通)",
+  "description": "An AI-powered junior high exam preparation system featuring intelligent question generation for 7 subjects, real-time analytics, and a dynamic mistake bank.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

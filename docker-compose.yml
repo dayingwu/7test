@@ -1,0 +1,12 @@
+
+version: '3.8'
+
+services:
+  aikao-pro:
+    build: .
+    container_name: aikao-pro-instance
+    ports:
+      - "8080:80"
+    environment:
+      - API_KEY=你的实际_API_KEY_在这里替换
+    restart: always
